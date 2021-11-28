@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "jonatassousa1234@gmail.com",
+      "password": "$2a$10$1ZcsCACdWCb/PZ8PnBp3meXJxH8RqcfKa9EdzdXyYeWJ6lLmbHE6K",
+      "nome": "jonatas",
+      "idade": 41,
+      "cpf": "48940708196",
+      "dtNascimento": "28/07/1920",
+      "cep": "08215533",
+      "logradouro": "Rua tio imburana",
+      "numero": 354,
+      "bairro": "Itaguera",
+      "cidade": "São paulo",
+      "estado": "SP",
+      "id": 1
+    },
+    {
+      "email": "jonatassousa2011@gmail.com",
+      "password": "$2a$10$wYFQs5JA1xu8VEmEMvlJmunHdIAHTNNEPpPSDpgT2Zkg9NEEzvdv.",
+      "nome": "jonatas2",
+      "idade": 21,
+      "cpf": "48940708195",
+      "dtNascimento": "28/07/2000",
+      "cep": "08215510",
+      "logradouro": "Rua rio imburana",
+      "numero": 32,
+      "bairro": "Itaquera",
+      "cidade": "São paulo",
+      "estado": "SP",
+      "id": 2
+    }
+  ],
+
+  "eventos": [
+      {
+        "id": 1,
+        "titulo":"Show do zé",
+        "descricao":"lorem",
+        "data":"12/12/2012",
+        "hora":"20:00",
+        "preco": 10.00
+      }
+  ],
+  "produtos": [
+    {
+        "id": 1,
+        "titulo":"Show do zé",
+        "descricao":"lorem",
+        "preco": 10.00
+    }
+  ]
+}
