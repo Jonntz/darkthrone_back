@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server-auth --watch db/db.json"
+    "start": "json-server-auth --watch db.json"
   },
   "author": "",
   "license": "ISC",
